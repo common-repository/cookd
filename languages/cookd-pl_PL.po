@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cook'd WordPress Plugin\n"
+"POT-Creation-Date: 2014-04-25 13:39+0100\n"
+"PO-Revision-Date: 2014-04-25 13:42+0100\n"
+"Last-Translator: Marek Kopel <marek@cooklet.com>\n"
+"Language-Team: cooklet <marek@cooklet.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _e;__;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:94
+msgid "Changes saved"
+msgstr "Zapisano zmiany"
+
+#: ../index.php:102
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Niestety nie możesz wejść na tę stronę."
+
+#: ../index.php:113
+msgid "Let's see what you can change here"
+msgstr "Zobaczmy co możesz zmienić"
+
+#: ../index.php:118
+msgid "email"
+msgstr "Podaj swój e-mail"
+
+#: ../index.php:122
+msgid "Maybe new welcome message?"
+msgstr "Tutaj możesz napisać nową wiadomość powitalną"
+
+#: ../index.php:127
+msgid "be first message?"
+msgstr "Napisz nową wiadomość 'Bądź pierwszy...'?"
+
+#: ../index.php:131
+msgid "facebookID"
+msgstr "Podaj ID twojego konta na Facebooku"
+
+#: ../index.php:135
+msgid "We need your facebook page ID for tagging"
+msgstr ""
+"Podaj ID lub URL swojej strony na Facebooku (pozwala na automatyczne "
+"tagowanie zdjęć)."
+
+#: ../index.php:139
+msgid "Maybe new facebook share message?"
+msgstr "Tutaj możesz zmienić treść wiadomości udostępnianej na Facebooku."
+
+#: ../index.php:144
+msgid ""
+"If you'll not add shortcode [cookd] to the post, the button will "
+"automatically show at the:"
+msgstr ""
+"Jeśli nie dodasz kodu [cookd] do postu, przycisk pojawi się automatycznie na:"
+
+#: ../index.php:146
+msgid "beginning"
+msgstr "początku"
+
+#: ../index.php:147
+msgid "end"
+msgstr "końcu"
+
+#: ../index.php:151
+msgid "singleonly"
+msgstr "Pokazuj Cook'd tylko w trybie jednego posta na stronę"
+
+#: ../index.php:153
+msgid "no"
+msgstr "nie"
+
+#: ../index.php:154
+msgid "yes"
+msgstr "tak"
+
+#: ../index.php:171
+msgid "Change profile picture"
+msgstr "Zmień zdjęcie profilowe"
+
+#: ../index.php:174
+msgid "Upload image"
+msgstr "Dodaj zdjęcie"
+
+#: ../index.php:282
+msgid "Unknown blog"
+msgstr "Skonfiguruj wtyczkę"
+
+#: ../index.php:358
+msgid "Uploads"
+msgstr "Zdjęcia"
+
+#~ msgid "Save changes"
+#~ msgstr "Zapisz zmiany"

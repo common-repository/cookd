@@ -1,0 +1,120 @@
+div.cookdwrap {
+  margin: 2em;
+}
+/*
+div.cookdwrap table td,
+div.cookdwrap table th {
+  border: thin solid #ddd;
+  padding: 3px;
+}
+
+div.cookdwrap table,
+div.cookdwrap fieldset {
+  margin: 1em auto;
+  border-collapse:collapse;
+}
+*/
+
+#cookdprofpic {
+  height: 130px; 
+  border-radius: 70px;
+}
+a.postcookd {
+    background: url('images/GFX_flat.png') 0 -128px;
+    width: 46px;
+    height: 25px;
+    display: block;
+}
+
+a.postcookd[cookdopt='out'] {
+    background: url('images/GFX_flat.png') -46px -128px;
+}
+
+fieldset.wherecookd {
+  border: thin solid #ddd;
+  margin: 1em;
+  padding: 1em;
+  width: 300px;
+}
+
+input[name='email'],
+input[name='fbpage']
+{
+	  width: 300px;
+}
+
+textarea[name='befirst'],
+textarea[name='blogtag'],
+textarea[name='fbtag'] {
+  width: 300px;
+  height: 100px;
+}
+div.changes {
+/*
+  color: green;
+  font-size: 1.2em;
+  border: thin solid green;
+  margin: 1em auto;
+  width: 200px;
+  text-align: center;
+*/
+  padding: 1em;
+  margin: 1em;
+}
+
+/*popup*/
+
+.mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+
+
+.cookdmask {
+  visibility:hidden!important;
+}
+  
+.cookdboxes .window {
+  position:fixed;
+  left:0;
+  top:0;
+  width: 444px;
+  height: 597px;
+  display:none;
+  z-index:9999;
+  
+  text-align: left;
+  font-family: Museo-500;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  color: #333333;
+  letter-spacing: 0;
+  
+ /* background: url('cooklet_banner/img/flat_concept_2.png') -35px -79px;*/
+
+  padding:10px;
+  background-color:#ffffff;
+  border-radius: 16px;
+  
+}
+
+
+.cookdboxes .cookd-popup a.close{
+background: url('images/GFX_flat.png') -100px 0;
+float: right;
+margin-bottom: 10px;
+display: block;
+height: 32px;
+width: 32px;
+}
+.cookdboxes .cookd-popup a.close:hover{
+background: url('images/GFX_flat.png') -100px -32px;
+}
+.cookdboxes .cookd-popup a.close:active{
+background: url('images/GFX_flat.png') -100px -64px;
+}
